@@ -1,21 +1,21 @@
 export default function ExperienceSection() {
   const experiences = [
     {
-      company: 'Tech Solutions Inc.',
-      position: 'Senior Web Developer',
-      duration: '2020 - Present',
+      company: 'Halodoc (PT. Media Dokter Investama)',
+      position: 'Tech IT Infrastructure Intern',
+      duration: 'February 2024 - June 2024',
       description: 'Led front-end development team, implemented new features, and optimized web applications.'
     },
     {
-      company: 'Web Innovators',
-      position: 'Web Developer',
-      duration: '2018 - 2020',
+      company: 'Bangkit Academy (Google, Tokopedia, Gojek, & Traveloka) - Capstone Project',
+      position: 'Cloud Computing',
+      duration: 'August 2023 - January 2024',
       description: 'Developed and maintained multiple client websites, implemented responsive designs.'
     },
     {
-      company: 'Freelance',
-      position: 'Web Developer',
-      duration: '2016 - 2018',
+      company: 'I-Secret',
+      position: 'Networking Division Staff',
+      duration: 'August 2021 - December 2022',
       description: 'Worked with various clients to create custom web solutions and e-commerce platforms.'
     }
   ]

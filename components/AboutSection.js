@@ -6,9 +6,7 @@ export default function AboutSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="text-gray-300 space-y-4">
             <p>
-              I'm a passionate web developer with 5+ years of experience in building modern,
-              responsive, and user-friendly web applications. I specialize in JavaScript
-              frameworks like React and Next.js, and I'm always eager to learn new technologies.
+            I am a 7th-semester student majoring in Information Systems at Universitas Negeri Semarang. I have a strong interest in backend development and cloud computing. I am enthusiastic about collaborating with talented professionals and contributing to the development of innovative technology solutions.
             </p>
             <p>
               My expertise includes front-end development, back-end integration, and creating
