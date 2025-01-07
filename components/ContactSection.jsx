@@ -1,3 +1,5 @@
+import { FaGithub, FaInstagram, FaLinkedin, FaTwitter } from 'react-icons/fa';
+
 export default function ContactSection() {
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -30,7 +32,7 @@ export default function ContactSection() {
   };
 
   return (
-    <section id="contact" className="py-20 bg-black"> {/* Ubah bg-primary-900 menjadi bg-black */}
+    <section id="contact" className="py-20 bg-black"> 
       <div className="max-w-7xl mx-auto px-4">
         <h2 className="text-4xl font-bold text-white mb-8">Contact</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -39,6 +41,32 @@ export default function ContactSection() {
               I'm always interested in hearing about new projects and opportunities.
               Feel free to reach out if you'd like to collaborate or just say hi!
             </p>
+            <div className="flex flex-wrap justify-start space-x-4">
+              <a
+                href="https://github.com/cheesekimbapp"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:text-white transition-colors"
+              >
+                <FaGithub className="h-12 w-12" />
+              </a>
+              <a
+                href="https://www.linkedin.com/in/muhammad-muchtar-syarifrudin/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:text-white transition-colors"
+              >
+                <FaLinkedin className="h-12 w-12" />
+              </a>
+              <a
+                href="https://www.instagram.com/muchtarsyarifr/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:text-white transition-colors"
+              >
+                <FaInstagram className="h-12 w-12" />
+              </a>
+            </div>
           </div>
           <form onSubmit={handleSubmit} className="space-y-4">
             <div>
