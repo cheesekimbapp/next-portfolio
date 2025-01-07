@@ -3,7 +3,7 @@ export default function HeroSection() {
     <section className="min-h-screen flex items-center justify-center">
       <div className="text-center flex flex-col md:flex-row items-center justify-center">
         {/* Gambar di atas teks pada mobile */}
-        <div className="w-48 h-48 md:w-96 md:h-96 rounded-full overflow-hidden mb-12 md:mb-0 md:ml-12 order-1 md:order-2">
+        <div className="w-80 h-80 md:w-1/3 md:h-1/3 rounded-full overflow-hidden mb-12 md:mb-0 md:ml-12 order-1 md:order-2">
           <img
             src="/img/muchtar.png"
             alt="Developer"
