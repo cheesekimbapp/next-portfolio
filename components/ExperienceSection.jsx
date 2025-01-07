@@ -1,6 +1,12 @@
 export default function ExperienceSection() {
   const experiences = [
     {
+      company: 'Tarraki Industries',
+      position: 'Web Developer',
+      duration: 'February 2023 - Present',
+      description: 'Led front-end development team, implemented new features, and optimized web applications.'
+    },
+    {
       company: 'Halodoc (PT. Media Dokter Investama)',
       position: 'Tech IT Infrastructure Intern',
       duration: 'February 2024 - June 2024',

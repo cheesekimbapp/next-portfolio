@@ -39,9 +39,6 @@ export default function ContactSection() {
               I'm always interested in hearing about new projects and opportunities.
               Feel free to reach out if you'd like to collaborate or just say hi!
             </p>
-            <div className="space-y-2">
-              <p>Email: syarifrudinmuchtar@students.unnes.ac.id</p>
-            </div>
           </div>
           <form onSubmit={handleSubmit} className="space-y-4">
             <div>

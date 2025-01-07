@@ -3,7 +3,7 @@ export default function ProjectsSection() {
     {
       title: 'Anime World',
       description: 'Anime World is your gateway to discovering and enjoying the best anime. Find recommendations, track your favorites, and explore a rich database—all in one place!',
-      technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
+      technologies: ['Next.js', 'Node.js', 'Tailwind CSS'],
       image: '/img/portfolio/anime.png',
       demo: 'https://github.com/cheesekimbapp/Anime-World',
       source: 'https://github.com/cheesekimbapp/Anime-World'
@@ -11,7 +11,7 @@ export default function ProjectsSection() {
     {
       title: 'SEMAWIS',
       description: 'Website for Semarang provides interactive information about tourist destinations, culinary delights, and cultural experiences in the city, making it easy for visitors to explore the beauty of Semarang with comprehensive maps and guides.',
-      technologies: ['Next.js', 'Firebase', 'Chart.js'],
+      technologies: ['Bootstrap', 'Leaflet', 'OpenStreetMap', 'HTML', 'CSS', 'Javascript'],
       image: '/img/portfolio/semawis.png',
       demo: 'https://sig-wisata-kota-semarang.github.io/Sig-Kota-Semarang/',
       source: 'https://github.com/SIG-Wisata-Kota-Semarang'
@@ -19,7 +19,7 @@ export default function ProjectsSection() {
     {
       title: 'PET MATE',
       description: 'PetMate is an an application that utilizes machine learning technology to be able to provide recommendations for pets that are suitable for prospective pet owners based on the preferences they want.',
-      technologies: ['Next.js', 'Tailwind CSS'],
+      technologies: ['Express', 'Node.js'],
       image: '/img/portfolio/petmate.png',
       demo: 'https://github.com/Bangkit-PetMate',
       source: 'https://github.com/Bangkit-PetMate'
@@ -27,7 +27,7 @@ export default function ProjectsSection() {
     {
       title: 'Basic Portfolio',
       description: 'A simple portfolio website for a web developer',
-      technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
+      technologies: ['HTML', 'CSS', 'Javascript', 'Tailwind CSS'],
       image: '/img/portfolio/basic-portfolio.png',
       demo: 'https://cheesekimbapp.github.io/Tars-Portfolio/',
       source: 'https://github.com/cheesekimbapp/Tars-Portfolio'
@@ -35,7 +35,7 @@ export default function ProjectsSection() {
     {
       title: 'Portfolio',
       description: 'A modern portfolio website for a web developer',
-      technologies: ['Next.js', 'Firebase', 'Chart.js'],
+      technologies: ['Next.js', 'Node.js', 'Tailwind CSS'],
       image: '/img/portfolio/next-portfolio.png',
       demo: 'https://tars-portfolio.vercel.app/',
       source: 'https://github.com/cheesekimbapp/next-portfolio'
@@ -43,7 +43,7 @@ export default function ProjectsSection() {
     {
       title: 'SPARK',
       description: 'SISTEM INFORMASI PENGELOLAAN TEMPAT PARKIR. The system offers better administration to optimize parking resources and improve overall parking experience.',
-      technologies: ['Next.js', 'Tailwind CSS'],
+      technologies: ['Botstrap', 'Laravel', 'CSS', 'Javascript'],
       image: '/img/portfolio/spark.png',
       demo: 'https://github.com/cheesekimbapp/SPARK',
       source: 'https://github.com/cheesekimbapp/SPARK'

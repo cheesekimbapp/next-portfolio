@@ -1,8 +1,6 @@
 export default function SkillsSection() {
   const skills = [
-    'JavaScript', 'React', 'Next.js', 'Node.js', 'TypeScript',
-    'Tailwind CSS', 'MongoDB', 'Express', 'Git', 'REST APIs',
-    'GraphQL', 'Docker', 'AWS', 'CI/CD'
+    'JavaScript', 'React', 'Next.js', 'Node.js', 'Vercel', 'Tailwind CSS', 'MySQL', 'Express', 'Git', 'REST APIs', 'Bootstrap', 'Figma', 'GCP'
   ]
 
   return (
