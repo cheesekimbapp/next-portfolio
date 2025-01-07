@@ -11,21 +11,32 @@ export default function HeroSection() {
           />
         </div>
 
-        {/* Teks di bawah gambar pada mobile */}
-        <div className="order-2 md:order-1">
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-            Hi, I'm Muchtar Syarifrudin
+        {/* Teks di sebelah kiri pada desktop */}
+        <div className="order-1 md:order-1 text-left">
+          <h1 className="text-3xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+            Hello 👋🏻, I'm
+          </h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
+            Muchtar Syarifrudin
           </h1>
           <p className="text-lg md:text-xl text-gray-300 mb-8">
-            Building modern web applications with cutting-edge technologies
+            Backend, Web Developer
           </p>
           <div className="space-x-4">
-            <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+            <a
+              href="#projects"
+              className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition-colors"
+            >
               View My Work
-            </button>
-            <button className="border border-white text-white font-bold py-2 px-4 rounded hover:bg-white hover:text-black">
-              Contact Me
-            </button>
+            </a>
+            <a
+              href="https://github.com/cheesekimbapp"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="border border-white text-white font-bold py-2 px-4 rounded hover:bg-white hover:text-black"
+            >
+              Github
+            </a>
           </div>
         </div>
       </div>

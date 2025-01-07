@@ -11,7 +11,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Web Developer Portfolio</title>
+        <link rel="icon" href="/img/logo.png" />
+        <title>Tars Portfolio</title>
         <meta name="description" content="Professional web developer portfolio" />
       </Head>
       <Navbar />
