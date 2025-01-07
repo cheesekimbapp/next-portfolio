@@ -4,25 +4,25 @@ export default function ExperienceSection() {
       company: 'Tarraki Industries',
       position: 'Web Developer',
       duration: 'February 2023 - Present',
-      description: 'Led front-end development team, implemented new features, and optimized web applications.'
+      description: 'Developed and maintained websites, implemented responsive designs.'
     },
     {
       company: 'Halodoc (PT. Media Dokter Investama)',
       position: 'Tech IT Infrastructure Intern',
       duration: 'February 2024 - June 2024',
-      description: 'Led front-end development team, implemented new features, and optimized web applications.'
+      description: 'Developed innovative automation solutions to optimize IT processes and enhance system performance, driving operational efficiency at Halodoc.'
     },
     {
       company: 'Bangkit Academy (Google, Tokopedia, Gojek, & Traveloka) - Capstone Project',
       position: 'Cloud Computing',
       duration: 'August 2023 - January 2024',
-      description: 'Developed and maintained multiple client websites, implemented responsive designs.'
+      description: 'Designed and implemented a robust RESTful API on Google Cloud, facilitating core application features and ensuring top-notch security and scalability in a collaborative learning environment.'
     },
     {
       company: 'I-Secret',
       position: 'Networking Division Staff',
       duration: 'August 2021 - December 2022',
-      description: 'Worked with various clients to create custom web solutions and e-commerce platforms.'
+      description: 'Contributed to the growth of future tech leaders by training peers in networking skills and achieving first place in competitive programming events, fostering a culture of excellence and teamwork.'
     }
   ]
 
